@@ -1,4 +1,4 @@
-# my REST FLAS REST AIP
+# MY FLASK REST API
 ## Installation
 """
 pip install flask
@@ -7,7 +7,7 @@ python app.py
 """
 ## Description
 
-Simple RESTAPI date manage stores and items throug JWT authentification
+Simple RESTAPI that manages stores and items through JWT authentification
 
 ##implementation
 
